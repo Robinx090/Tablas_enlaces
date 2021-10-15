@@ -20,7 +20,7 @@
 					<img src="https://t2.uc.ltmcdn.com/images/6/3/7/como_saber_si_mi_pomerania_es_de_raza_pura_50736_600_square.jpg" width="150px" alt="Pomerania">
 				</td>
 				<td>
-					<a href="https://es.wikipedia.org/wiki/Pomerania" target="_blank">Descripción de la raza pomerania</a>
+					<a href="https://es.wikipedia.org/wiki/Pomerania" target="_blank">Historia del pomerania</a>
 				</td>
 			</tr>
 		</table>
